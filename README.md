@@ -76,11 +76,11 @@ The `Models` class in `text_model.py` encapsulates the functionality of the appl
     - This method acts as a recursive function that generates a chain of stories. It takes a payload as input, which initially contains the generated text. It recursively calls the `story()` method and updates the payload until the desired number of stories (50 in this case) is generated. The progress bar is also updated accordingly.
 
 ## Running the Application
-
-To run the application, execute the following command:
+If you are curious and want to just try the backend models
+execute the following command:
 
 ```shell
-python main.py
+python text_model.py
 ```
 
 Make sure you have the required dependencies installed, as mentioned in the installation section.
