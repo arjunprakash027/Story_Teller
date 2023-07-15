@@ -12,7 +12,6 @@ Story Teller is a Streamlit application that generates a story based on an input
 - [Models](#models)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
