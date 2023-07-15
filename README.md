@@ -1,5 +1,5 @@
 
-```markdown
+
 # Story Teller
 
 Story Teller is a Streamlit application that generates a story based on an input image. It utilizes the Hugging Face Transformers library and the Salesforce BLIP Image Captioning model.
